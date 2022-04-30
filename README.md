@@ -8,7 +8,7 @@ Bu repository oluşturduğumuz ilk repository. İçerisinde bir adet README dosy
 Öncelikle projeyi clonelayın. ( Buraya sizin repositoryden aldığınız link gelecek )
 
 ```
-git clone https://github.com/ahmetmertctnk/repository-olusturma.git
+git clone https://github.com/baturalpkaraca/kodluyoruzilkrepo.git
 ```
 
 ## Usage
